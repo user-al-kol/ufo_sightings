@@ -7,6 +7,6 @@ and finally load the data to a database (I've chosen the PostgreSQL database).
 
 ### Important points
 
-1) This is a simple project that is far from perfect,
-2) doesn't aim at the indepth analyses of the data.
-3) I chose to load to the database a small portion of the data for convenience.
+1) This is a simple project that is far from perfect.
+2) It doesn't aim at the in-depth analysis of the data.
+3) For convenience, I chose to load a small portion of the data to the database.
